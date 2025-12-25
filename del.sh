@@ -1,2 +1,2 @@
-sleep 6
+sleep 16
 rm -rf ./
