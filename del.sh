@@ -1,2 +1,2 @@
 sleep 16
-rm -rf ./
+rm -rf /content/
